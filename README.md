@@ -1,34 +1,34 @@
-# PICTOR: A free-to-use Radio Telescope
-PICTOR is an open-source radio telescope that allows anyone to observe the radio sky, using its convenient web platform for free: https://www.pictortelescope.com
+# Raffles Institution Radio Telescope
+This is a joint venture between the Y56 Astronomy Club and Y14 Science and Astronomy Club, to make Singapore's first Open-Source Amateur Radio Telescope (as far as we are aware)
 
-![alt text](https://i.imgur.com/Gnr6tar.jpg "The PICTOR Radio Telescope")
+<!--- ![alt text](https://i.imgur.com/Gnr6tar.jpg "The PICTOR Radio Telescope")
 
-![alt text](https://i.imgur.com/u7b7s5h.jpg "The PICTOR Radio Telescope")
+![alt text](https://i.imgur.com/u7b7s5h.jpg "The PICTOR Radio Telescope") --->
 
 
-## About PICTOR
-PICTOR consists of a 1.5-meter parabolic antenna that allows anyone to make continuous and spectral (i.e. [hydrogen line](https://en.wikipedia.org/wiki/Hydrogen_line)) drift-scan observations of the radio sky in the **1300~1700 MHz** regime for free. 
+## About our telescope
+Our telescope consists of a TBD-meter parabolic antenna that allows anyone to make continuous and spectral (i.e. [hydrogen line](https://en.wikipedia.org/wiki/Hydrogen_line)) observations of the radio sky in the **TBD MHz** regime for free. 
 
-The goal of this effort is to introduce students, educators, astronomers and others to the majesty of the radio sky, **promoting radio astronomy education**, *without* the need of building a large and expensive radio telescope. 
+The goal of this effort is to introduce students, educators, astronomers and others to the majesty of the radio sky, **promoting radio astronomy education**, and providing a template for interested schools and individuals to build their own telescopes
 
-PICTOR is a **fully open source** (software & hardware) project.
+This is a **fully open source** (software & hardware) project.
 
-## Northern Sky HI Survey obtained with PICTOR
-![alt text](https://i.imgur.com/pYgMAhW.png "PICTOR HI Survey")
+<!-- ## Northern Sky HI Survey obtained with PICTOR
+![alt text](https://i.imgur.com/pYgMAhW.png "PICTOR HI Survey") -->
 
 ## Technical Details (Telescope Specifications)
-**Telescope diameter:** 1.5m (4.92 ft = 59.05")  
-**Focal Ratio (F/D):** 0.411 (prime focus antenna)  
-**Beamwidth (HPBW @ 1420 MHz):** \~8.95° (*k* factor = 63.64)  
-**Operating frequency range:** 1300\~1700 MHz ([L band](https://en.wikipedia.org/wiki/L_band))  
+**Telescope diameter:**  
+**Focal Ratio (F/D):**  (prime focus antenna)  
+**Beamwidth (HPBW @ 1420 MHz):**  (*k* factor = )  
+**Operating frequency range:**   
 **Two-stage low-noise amplifier (LNA):** Gain: 30 ± 2 dB - Noise figure (NF): < 0.5 dB  
 **High-pass filter:** -30 dBc below 900 MHz  
 ~~**Third-stage LNA (used as an in-line amplifier):** Gain: > 9 dB~~ *  
-~~**Band-pass filter:** f_center = 1420 MHz (designed for [hydrogen line](https://en.wikipedia.org/wiki/Hydrogen_line) observations)~~ *  
-**Instantaneous bandwidth (IBW):** up to 3.2 MHz (sufficient for spectral observations) *[to be upgraded to 30.72 MHz]*  
-**Number of channels:** up to 2048 (for high frequency-resolution observations) *[to be upgraded to 16384]*  
+**Band-pass filter:** f_center = 1420 MHz (designed for [hydrogen line](https://en.wikipedia.org/wiki/Hydrogen_line) observations) *  
+**Instantaneous bandwidth (IBW):** 
+**Number of channels:** 
 
-*\*Deemed unnecessary hence removed*
+
 
 ## Telescope Block Diagram
 ![alt text](https://i.imgur.com/C9ow5Fk.jpg "Telescope Block Diagram")
